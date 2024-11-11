@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "C:/Users/HP/OneDrive/Documents/Dig/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Dig_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/HP/OneDrive/Documents/Dig/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/HP/OneDrive/Documents/Dig/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/HP/OneDrive/Documents/Dig",
+	"CMAKE_SOURCE_DIR" : "C:/Users/HP/OneDrive/Documents/Dig",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/HP/OneDrive/Documents/Dig/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Dig_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/HP/OneDrive/Desktop/Level one.txt",
+		"C:/Users/HP/Downloads/horror_brick_09-512x512.png",
+		"C:/Users/HP/Downloads/L1.png",
+		"C:/Users/HP/Downloads/R1.png"
+	],
+	"LOCK_FILE" : "C:/Users/HP/OneDrive/Documents/Dig/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Dig_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/HP/OneDrive/Documents/Dig/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Dig_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/HP/OneDrive/Documents/Dig/Resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

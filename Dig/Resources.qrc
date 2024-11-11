@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Desktop/Level one.txt</file>
+        <file>../../../Downloads/R1.png</file>
+        <file>../../../Downloads/L1.png</file>
+        <file>../../../Downloads/horror_brick_09-512x512.png</file>
+    </qresource>
+</RCC>
